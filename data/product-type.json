@@ -85,19 +85,19 @@
         "displayGroup": "Other"
       },
       {
-        "name": "designer",
+        "name": "typeOfProduct",
         "label": {
-          "it": "Designer",
-          "de": "Designer",
-          "en": "Designer"
+          "it": "type",
+          "de": "type",
+          "en": "type"
         },
         "isRequired": false,
         "type": {
           "name": "enum",
           "values": [
             {
-              "key": "360sweater",
-              "label": "360 Sweater"
+              "key": "flower",
+              "label": "Flower"
             },
             {
               "key": "7forallmankind",

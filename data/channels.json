@@ -1,13 +1,13 @@
 [
   {
-    "key": "sunrise-store-sanfrancisco",
+    "key": "sunrise-store-ottawa",
     "roles": [
       "InventorySupply",
       "ProductDistribution"
     ],
     "name": {
-      "en": "SUNRISE Store San Francisco",
-      "de": "SUNRISE Store San Francisco"
+      "en": "SUNRISE Store Ottawa",
+      "de": "SUNRISE Store Ottawa"
     },
     "custom": {
       "type": {
@@ -24,9 +24,9 @@
     "address": {
       "streetName": "Townsend Street",
       "streetNumber": "650",
-      "postalCode": "CA 94103",
-      "city": "San Francisco",
-      "country": "US"
+      "postalCode": "K1A 0A5",
+      "city": "Ottawa",
+      "country": "CA"
     },
     "geoLocation": {
       "coordinates": [
@@ -592,14 +592,14 @@
     }
   },
   {
-    "key": "sunrise-store-munich",
+    "key": "sunrise-store-warsaw",
     "roles": [
       "InventorySupply",
       "ProductDistribution"
     ],
     "name": {
-      "en": "SUNRISE Store Munich",
-      "de": "SUNRISE Store Munich"
+      "en": "SUNRISE Store Warsaw",
+      "de": "SUNRISE Store Warsaw"
     },
     "custom": {
       "type": {
@@ -614,11 +614,11 @@
       }
     },
     "address": {
-      "streetName": "Dachauer Str.",
+      "streetName": "Swidnicka",
       "streetNumber": "128",
-      "postalCode": "80637",
-      "city": "Munich",
-      "country": "DE"
+      "postalCode": "80-637",
+      "city": "Warsaw",
+      "country": "PL"
     },
     "geoLocation": {
       "coordinates": [
