@@ -1,4 +1,4 @@
-# Sunrise Data
+# Sunrise
 
 [![Build Status](https://travis-ci.org/commercetools/commercetools-sunrise-data.svg?branch=master)](https://travis-ci.org/commercetools/commercetools-sunrise-data)
 
