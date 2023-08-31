@@ -1,0 +1,14 @@
+[
+  {
+      "key": "silver",
+      "groupName": "Silver"
+  },
+  {
+      "key": "gold",
+      "groupName": "Gold"
+  },
+  {
+      "key": "platinum",
+      "groupName": "Platinum"
+  }
+]
